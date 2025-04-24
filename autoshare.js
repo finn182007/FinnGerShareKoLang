@@ -1,4 +1,4 @@
-import requests
+
 
 def auto_share_post(post_id):
     access_token = 'your_access_token_here'
